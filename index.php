@@ -43,6 +43,7 @@ $pageActive = 'home';
                             <div class="box-input">
                                 <label for="subject">Sujet :</label>
                                 <select name="subject" id="subject">
+                                    <option value="">Merci de choisir un sujet</option>
                                     <option value="Intelligence artificielle">Intelligence artificielle</option>
                                     <option value="Mathématiques appliquées">Mathématiques appliquées</option>
                                     <option value="La théorie des cordes">La théorie des cordes</option>
